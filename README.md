@@ -27,5 +27,7 @@
 - игровые проекты на [itch.io](https://postpost.itch.io/)
 - прототип игры в жанре шутер [Машина желания](https://drive.google.com/drive/folders/1eh5ourTPkqz-roK0Qx96fB3t7mz1AtaC) на UE4
 
+Все сертификаты можно подсмотреть [здесь](https://github.com/postpost/Certificates/tree/main/Certificates)
+
 Спасибо за интерес!
 
