@@ -1,5 +1,5 @@
-## Привет 👋
-Меня зовут Полина и я хочу поделиться с Вами своими навыками и несколькими реализованными проектами, которые могут быть релеватными для разработки игр.
+## Hi 👋
+My name is Polina, and I would like to share my skills and a few completed projects that may be relevant for game development.
 
 <!--
 **postpost/postpost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,28 +8,28 @@
 ![image](https://github.com/user-attachments/assets/c6f25622-1642-4268-b3a1-9284a88cbf51)
 
 -->
-**Чтобы наyчиться разрабатывать игры я:**
-- Прошла обучение в Нетологии по направлениям "Разработчик игр на UE4" и "Программирование на С++"
-- Поучаствовала в джеме в роли левел-дизайнерки
-- Полностью погрузилась в подготвку проектной документации и балансировки геймплея
-- Создала дипломный проект полноценного прототипа игры-шутера на UE4 
-- Создала свою игру на блюпринтах UE4
-- Самостоятельно изучаю SFML
+**To learn how to develop games, I:**
+- Completed training at Netology in the fields of "Game Developer on UE4" and "C++ Programming"
+- Participated in a game jam as a level designer
+- Fully immersed myself in preparing project documentation and balancing gameplay
+- Created a fully functional shooter game prototype in UE4 as a diploma project 
+- Developed my own game using UE4 blueprints
+- Self-studied SFML
 
-**Во время обучения в Нетологии я реализовала проекты:**
+**During my studies at Netology, I implemented projects in:**
 
-*по С++:*
-- дипломный проект ["Поисковик"](https://github.com/postpost/SearchEngine/tree/main/SearchEngine/SearchEngine/HTTPClient)
-- парсер [INI-файлов](https://github.com/postpost/IniFilesParserCPP/tree/main/IniFilesParser)
-- курсовой проект ["Потокобезопасная очередь"](https://github.com/postpost/CourseWork/tree/main/CourseWork_upd/ThreadSafe_Pool/ThreadSafe_Pool)
-- курсовой проект-приложение на Qt ["Инспектор аэропортов"](https://github.com/postpost/QT/tree/main/FINAL_WORK)
+*С++:*
+- Diploma project ["Search Engine"](https://github.com/postpost/SearchEngine/tree/main/SearchEngine/SearchEngine/HTTPClient)
+- [INI file parser](https://github.com/postpost/IniFilesParserCPP/tree/main/IniFilesParser)
+- Course project ["Thread-Safe Queue"](https://github.com/postpost/CourseWork/tree/main/CourseWork_upd/ThreadSafe_Pool/ThreadSafe_Pool)
+- Qt application ["Airport Inspector"](https://github.com/postpost/QT/tree/main/FINAL_WORK)
 
-*по UE4/5:*
-- игровые проекты на [itch.io](https://postpost.itch.io/)
-- прототип игры в жанре шутер [Машина желания](https://drive.google.com/drive/folders/1eh5ourTPkqz-roK0Qx96fB3t7mz1AtaC) на UE4
-- концепт и документация собственной игры [Acid Communism](https://docs.google.com/spreadsheets/d/1wgybQ_UId6R5LoIU2lCY0I21YBm-WKUhHyVHd-ehbpQ/edit?gid=0#gid=0)
+*UE4/5:*
+- Game projects on [itch.io](https://postpost.itch.io/)
+- Prototype of a shooter game [Desiring-machine](https://drive.google.com/drive/folders/1eh5ourTPkqz-roK0Qx96fB3t7mz1AtaC) in UE4
+- Concept and documentation for my own game [Acid Communism](https://docs.google.com/spreadsheets/d/1wgybQ_UId6R5LoIU2lCY0I21YBm-WKUhHyVHd-ehbpQ/edit?gid=0#gid=0)
 
-Все сертификаты можно подсмотреть [здесь](https://github.com/postpost/Certificates/tree/main/Certificates)
+All certificates can be viewed [here](https://github.com/postpost/Certificates/tree/main/Certificates)
 
-Спасибо за интерес!
+Thank you for your interest!
 
