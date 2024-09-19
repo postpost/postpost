@@ -9,7 +9,7 @@ My name is Polina, and I would like to share my skills and a few completed proje
 
 -->
 **To learn how to develop games, I:**
-- Completed training at Netology in the fields of "Game Developer on UE4" and "C++ Programming"
+- Completed huge courses at Netology as "UE4 Game Developer" and "C++ Programmer"
 - Participated in a game jam as a level designer
 - Fully immersed myself in preparing project documentation and balancing gameplay
 - Created a fully functional shooter game prototype in UE4 as a diploma project 
