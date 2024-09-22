@@ -19,7 +19,7 @@ My name is Polina, and I would like to share my skills and a few completed proje
 **During my studies at Netology, I implemented projects in:**
 
 *С++:*
-- Diploma project ["Search Engine"](https://github.com/postpost/SearchEngine/tree/main/SearchEngine/SearchEngine/HTTPClient)
+- Diploma project ["Search Engine"](https://github.com/postpost/SearchEngine/tree/main/SearchEngine/SearchEngine/HTTPClient), in progress
 - [INI file parser](https://github.com/postpost/IniFilesParserCPP/tree/main/IniFilesParser)
 - Course project ["Thread-Safe Queue"](https://github.com/postpost/CourseWork/tree/main/CourseWork_upd/ThreadSafe_Pool/ThreadSafe_Pool)
 - Qt application ["Airport Inspector"](https://github.com/postpost/QT/tree/main/FINAL_WORK)
